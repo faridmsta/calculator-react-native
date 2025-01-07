@@ -38,7 +38,5 @@ A simple and intuitive calculator app built with React Native. Perform basic ari
 
 This project is licensed under the MIT License. Feel free to use and modify it as needed!
 
----
-
 ⭐ If you find this project helpful, consider giving it a star!
-```
+
